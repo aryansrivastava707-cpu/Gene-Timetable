@@ -1,0 +1,10 @@
+{
+  "name": "gene-timetable",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-strip-types src/cli.ts data.json --seed 1",
+    "test": "node --experimental-strip-types --test tests/*.test.ts"
+  },
+  "engines": { "node": ">=22.6" }
+}

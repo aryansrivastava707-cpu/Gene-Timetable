@@ -1,0 +1,17 @@
+{
+  "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+  "periods": 6,
+  "rooms": ["Room 101", "Room 102", "Lab 1"],
+  "courses": [
+    {"name": "Data Structures", "teacher": "Dr. Mishra", "section": "CSE-A", "hours": 4},
+    {"name": "Python Programming", "teacher": "Ms. Gupta", "section": "CSE-A", "hours": 3},
+    {"name": "Discrete Maths", "teacher": "Dr. Verma", "section": "CSE-A", "hours": 3},
+    {"name": "Machine Learning", "teacher": "Mr. Singh", "section": "CSE-A", "hours": 3},
+    {"name": "DBMS", "teacher": "Ms. Gupta", "section": "CSE-A", "hours": 3},
+    {"name": "Data Structures", "teacher": "Dr. Mishra", "section": "CSE-B", "hours": 4},
+    {"name": "Python Programming", "teacher": "Ms. Gupta", "section": "CSE-B", "hours": 3},
+    {"name": "Discrete Maths", "teacher": "Dr. Verma", "section": "CSE-B", "hours": 3},
+    {"name": "Machine Learning", "teacher": "Mr. Singh", "section": "CSE-B", "hours": 3},
+    {"name": "DBMS", "teacher": "Mr. Singh", "section": "CSE-B", "hours": 3}
+  ]
+}
